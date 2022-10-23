@@ -1,3 +1,4 @@
 [submodule "communication"]
 	path = communication
 	url = https://github.com/We-Fly/communication.git
+	branch = dev
